@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Kevin Stiven Morales Castro @KevinMorales0.
+- 👀 I’m interested in learn and teach.
+- 🌱 I’m currently learning Computer graphics and .Net.
+- 💞️ I’m looking to collaborate on projects to improve learning.
+- 📫 How to reach me: 
+  - E-Mail: kevinmorales.lk@gmail.com
