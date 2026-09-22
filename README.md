@@ -1,6 +1,23 @@
-- 👋 Hi, I’m Kevin Stiven Morales Castro @KevinMorales0.
-- 👀 I’m interested in learn and teach.
-- 🌱 I’m currently learning Computer graphics and .Net.
-- 💞️ I’m looking to collaborate on projects to improve learning.
-- 📫 How to reach me: 
-  - E-Mail: kevinmorales.lk@gmail.com
+# Kevin Morales
+
+I am a software systems researcher, designer, and builder. I am fascinated by complex systems and obsessed with understanding, questioning, and reshaping them to reduce the complexity and knowledge barriers between an idea and its realization.
+
+That means my daily life is spent chasing systems that look impossible and making them feel less alien. It is not enough to know that something works; I want to know **why**, **where it breaks**, and **how to make it better**.
+
+That also means I love simple systems: **small when they can be, explicit when it matters, and observable when they fail**. Because I can't help wondering: **what could brilliant people build if complexity were no longer a barrier?**
+
+> “I care about software that is small, correct, and observable. If it can't be deployed with scp and run without a runtime, it's probably too complicated.”
+>
+> — [copyleftdev](https://github.com/copyleftdev)
+
+## Vidilec
+That is why I built Vidilec: a place to understand complex systems from the inside, question how they are built, explore better ways of doing things, and turn those discoveries into tools that remove the layers of complexity standing between people and what they want to build.
+
+And with your support, perhaps Vidilec can become your place as well.
+
+
+## Projects
+
+Think virtual machines are Lovecraftian entities, invoked only by the most insane minds of our generation?
+
+**Let Jyth drive you crazy.**
